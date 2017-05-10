@@ -3,3 +3,6 @@ node_modules
 build
 docs
 tmp
+.idea/
+yarn.lock
+yarn-error.log
